@@ -1,30 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
 ### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Been reading through the Core Java Book Vol 1 looking into arrays and into Object orientation.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Improving my coding vocabulary and picking up little things that I haddent been taught. 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Core Java I Fundimentals](https://www.amazon.co.uk/Core-Java-I-Fundamentals-Cay-Horstmann/dp/0135166306/ref=pd_lpo_14_t_0/257-2150256-7283531?_encoding=UTF8&pd_rd_i=0135166306&pd_rd_r=b8149ba9-d86c-43ac-91ae-8b86428053f7&pd_rd_w=CYfRn&pd_rd_wg=TuzwE&pf_rd_p=7b8e3b03-1439-4489-abd4-4a138cf4eca6&pf_rd_r=7ES8WRVZH9JV20N1R2YS&psc=1&refRID=7ES8WRVZH9JV20N1R2YS)
