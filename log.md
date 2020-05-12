@@ -22,6 +22,14 @@
 **Link(s) to work**
 1. [RPGBOT Repo](https://github.com/AshaThor/RPGBot)
 
+### Day 3 12th May 2020, Tuesday
+
+**Today's Progress**: Today i took a setp to combine angular and spring into one appp and make a one page web app
+
+**Thoughts** Angular is going to be a steap learing curve but one im excited for.
+
+**Link(s) to work**
+1. [RPGGremlins](https://github.com/AshaThor/RPGBot)
 
 
 
