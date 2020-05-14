@@ -39,8 +39,17 @@
 
 **Link(s) to work**
 1. [RPGGremlins](https://github.com/AshaThor/RPGGremlins)
-2. [RPGGremlins](https://github.com/AshaThor/RPGGremlins-UI)
+2. [RPGGremlins-UI](https://github.com/AshaThor/RPGGremlins-UI)
 
+### Day 5 14th May 2020, Thursday
+
+**Today's Progress**: Toay I imported bootstrap and had a mess around with headers and footers, did alot of different html designs untill picking an out the box one i felt was nice. Spent the rest of the time looking into my DB structure and setting out good data habbits, my DB is growing and it needs to be good or the application will fail. 
+
+**Thoughts**: Bootstrap is good, Databases are hard
+
+**Link(s) to work**
+1. [RPGGremlins](https://github.com/AshaThor/RPGGremlins)
+2. [RPGGremlins-UI](https://github.com/AshaThor/RPGGremlins-UI)
 
 
 ### Template For Days
