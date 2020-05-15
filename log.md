@@ -43,7 +43,7 @@
 
 ### Day 5 14th May 2020, Thursday
 
-**Today's Progress**: Toay I imported bootstrap and had a mess around with headers and footers, did alot of different html designs untill picking an out the box one i felt was nice. Spent the rest of the time looking into my DB structure and setting out good data habbits, my DB is growing and it needs to be good or the application will fail. 
+**Today's Progress**: Toay I imported bootstrap and had a mess around with headers and footers, did alot of different html designs untill picking an out the box one i felt was nice. Spent the rest of the time looking into my DB structure and setting out good data habbits, my DB is growing and it needs to be good or the application will fail.
 
 **Thoughts**: Bootstrap is good, Databases are hard
 
@@ -51,6 +51,15 @@
 1. [RPGGremlins](https://github.com/AshaThor/RPGGremlins)
 2. [RPGGremlins-UI](https://github.com/AshaThor/RPGGremlins-UI)
 
+### Day 6 15th May, Friday
+
+**Today's Progress**: Databases, Databases, Databases. Love em, hate em, gotta work with em. And gotta get them right. Time in a note book looking at, writing and re writing a database structure.
+
+**Thoughts**: This is so necessary to get right I'm willing to spend a few days effort on making it right as it will underpin all my transactions and is easy to setup and harder to change, getting it as right as I can from the off is very important!
+
+**Link(s) to work**
+1. [RPGGremlins](https://github.com/AshaThor/RPGGremlins)
+2. [RPGGremlins-UI](https://github.com/AshaThor/RPGGremlins-UI)
 
 ### Template For Days
 
